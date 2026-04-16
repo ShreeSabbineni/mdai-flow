@@ -66,19 +66,6 @@
         "dicomTags.ProcedureCodeSequence"
     ],
     "user_map": {
-        "U_PL8EzR": "John Mongan",
-        "U_b35bex": "Aaron Kornblith",
-        "U_NxeXN3": "Newton Addo",
-        "U_wzqlAL": "Kush Narang",
-        "U_DL2dN3": "Shabir Din",
-        "U_g3W91L": "Jashdeep Dhillon",
-        "U_NxeXw3": "Margaret Lin-Martore",
-        "U_N37gN3": "Mojda Moradi",
-        "U_WzDqB3": "Anvitha Marlapati",
-        "U_YxmAex": "Madison DeVries",
-        "U_5xajjL": "Olivia Deantoni",
-        "U_2LPgpx": "ShreeSabbineni",
-        "U_wxryD3": "Benjamin Magaña",
-        "U_kxw9nz": "Leisha Devisetti"
+       "USER_ID"="NAME_OF_USER"
     }
 }
