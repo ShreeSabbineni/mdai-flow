@@ -272,5 +272,8 @@ class MDAIExporter:
 # ----------------------------
 
 if __name__ == "__main__":
-    exporter = MDAIExporter(config_path="config.json", output_dir="mdai_output")
+    exporter = MDAIExporter(
+        config_path="config/utilities_config.json",
+        output_dir="mdai_output"
+    )
     exporter.run()
