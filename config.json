@@ -1,8 +1,8 @@
 {
   "mdai_domain": "public.md.ai",
-  "mdai_token": "XXXXXX",
-  "mdai_project_id": "L1Npapqv",
-  "mdai_dataset_id": "D_QzDlwE",
+  "mdai_token": "MDAI_TOKEN",
+  "mdai_project_id": "MDAI_PROJECT_ID",
+  "mdai_dataset_id": "MDAI_DATASET_ID",
 "annotation_vars": [
     "id",
     "createdAt",
