@@ -65,7 +65,6 @@
     "dicomTags.ProcedureCodeSequence"
 ],
 "user_map": {
-  "userID1": "username1",
-  "userID2": "username2"
+  "USER_ID"="NAME_OF_USER"
 }
 }
