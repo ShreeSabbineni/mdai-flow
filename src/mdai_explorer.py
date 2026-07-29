@@ -528,5 +528,5 @@ class MDAIExplorer:
 
 if __name__ == "__main__":
     root = tk.Tk()
-    app = MDAIExplorer(root, "configLocal.json")
+    app = MDAIExplorer(root, "config/explorer_config.json")
     root.mainloop()
