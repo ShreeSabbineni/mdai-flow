@@ -30,13 +30,13 @@ MDAI Explorer provides an interface for reviewing medical imaging studies and as
 
 ## Demo
 
-<!-- Add your annotation viewer video here -->
 
-**Demo video coming soon**
+![MDAI Explorer Demo](assets/mdai-explorer-demo.gif)
+
 
 ## Screenshots
 
-<!-- Add explorer screenshots here -->
+![MDAI Explorer Interface](assets/explorer-interface-preview.jpg)
 
 ---
 
@@ -73,6 +73,8 @@ Analysis-ready datasets containing:
 - Annotation coordinates
 - DICOM metadata
 
+![MDAI Utilities CSV Export](assets/utilities-csv-export-preview.jpg)
+
 ### HTML Reports
 
 Human-readable tables for quick review and quality control.
@@ -83,8 +85,9 @@ Example outputs include:
 - Annotation metadata tables
 - DICOM metadata reports
 
-<!-- Add utilities HTML screenshot here -->
-
+![MDAI Utilities Data Pipeline](assets/utilities-data-pipeline.gif)
+![MDAI Utilities Dicom Data](assets/utilities-dicom-tags.gif)
+![MDAI Utilities Annotations and Labels Data](assets/utilities-annotations-export.gif)
 ---
 
 # Technical Workflow
